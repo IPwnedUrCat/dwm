@@ -1,0 +1,4 @@
+ttf-FontAwesome5
+ttf-Hack
+dmenu
+
